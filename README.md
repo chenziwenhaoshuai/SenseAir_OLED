@@ -61,7 +61,7 @@ OLED Display
 2. **Install required libraries**:
    - [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
    - [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
-   - [S8_UART Library](https://github.com/Sensirion/arduino-uart-s8) *(Include your library or link to it)*
+   - [S8_UART Library]((https://github.com/jcomas/S8_UART)) *(Include your library or link to it)*
 
 3. **Configure hardware**:
    - Adjust pin definitions in the `Configuration` section of the code if needed
@@ -104,7 +104,7 @@ Modify these in the code as needed:
 
 ## License
 
-[MIT License](LICENSE) *(Choose your preferred license)*
+[MIT License](LICENSE) 
 
 ## Contributing
 
