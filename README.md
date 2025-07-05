@@ -1,7 +1,7 @@
 
 # CO2 Monitor with S8 Sensor and OLED Display
 
-![Project Banner](image.jpg) *(Replace with your actual image)*
+![Project Banner](image.jpg) 
 
 ## Overview
 
